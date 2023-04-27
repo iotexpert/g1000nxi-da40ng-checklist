@@ -10,8 +10,10 @@ You can edit this checklist using checkset which can be downloaded from Garmins 
 
 The G1000NXI behavior is crazy for updating the checklist.  It requires 3 reboots to get it to be loaded.
 
+Notice the file name is "da40-arh.gcl", which will need to be renamed to checklist.gcl, when you edit the file to match your plane
+
 In order to install the checklist
-1. Save it to a sd-card at the top level as "checklist.gcl"
+1. Edit it to suit your needs and save it to a sd-card at the top level as "checklist.gcl"
 2. Put it in the top mfd slot
 3. Turn on the avionics... and wait
 4. Turn off the avionics... and wait
